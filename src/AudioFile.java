@@ -17,12 +17,10 @@ public class AudioFile {
         this.timeAdded = timeAdded;
     }
 
-    // GETTERS
     public String getName(){
         return fileName;
     }
 
-    // SETTERS
     public void setName(String fileName){
         this.fileName = fileName;
     }
